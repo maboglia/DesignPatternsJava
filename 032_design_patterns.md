@@ -1,4 +1,4 @@
-# Design patterns in Java
+# Design Pattern - Core Java Pattern
 
 ---
 
@@ -134,4 +134,3 @@ Scopo dei design pattern comportamentali
   - Un framework DI risolve a runtime le dipendenze dichiarate
   - Utilizzo costruttori e metodi setter dei POJO
   - Perdita dell’incapsulamento
-
